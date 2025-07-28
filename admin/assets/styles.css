@@ -1,0 +1,32 @@
+    body {
+      background-color: #f5f7ff;
+    }
+    .sidebar {
+      height: 100vh;
+      background-color: #ffffff;
+      border-right: 1px solid #e0e0e0;
+      padding-top: 20px;
+    }
+    .sidebar .nav-link.active {
+      background-color: #435ebe;
+      color: #fff;
+      font-weight: 500;
+      border-radius: 10px;
+    }
+    .sidebar .nav-link {
+      color: #4f4f4f;
+    }
+    .card {
+      border: none;
+    }
+    .stat-card {
+      background-color: #f0f4ff;
+      padding: 1rem;
+      border-radius: 15px;
+      text-align: center;
+    }
+    .chart-placeholder {
+      height: 200px;
+      background-color: #dbeafe;
+      border-radius: 10px;
+    }
